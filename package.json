@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/control_utils": "^0.6.1675466023",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/hands": "^0.3.1634603088",
+    "jquery": "^3.7.1",
+    "webmidi": "^3.1.12"
+  }
+}
